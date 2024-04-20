@@ -1,0 +1,8 @@
+{
+    "Descriptions":
+    [
+      {"id":"Generic","desc":"Press the Convert button to show the converted number"},
+      {"id":"Instructions","desc":"Choose the denomination the value is in with the switch, input the number in the text box, and press the convert button"}
+    ],
+    "Status":"OK"
+  }
