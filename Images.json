@@ -1,8 +1,8 @@
 {
     "Images":
     [
-      {"id":"IMG0","link":"https://raw.githubusercontent.com/aconstantine321/MeasurementConversions/main/IMG_5706.jpg"},
-      {"id":"IMG1","link":"https://raw.githubusercontent.com/aconstantine321/MeasurementConversions/main/IMG_5708.jpg"}
+      {"id":"Image 1","link":"https://raw.githubusercontent.com/aconstantine321/MeasurementConversions/main/IMG_5706.jpg"},
+      {"id":"Image 2","link":"https://raw.githubusercontent.com/aconstantine321/MeasurementConversions/main/IMG_5708.jpg"}
     ],
     "Status":"OK"
   }
